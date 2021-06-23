@@ -1,4 +1,3 @@
-# Data Scientist Nanodegree
 ## Unsupervised Learning
 
 * ```Challenge:``` Udacity Data Scientist Nanodegree project for unsupervised learning module titled as 'Identify Customer Segments' brings Bertelsmann partners AZ Direct and Arvato Financial Solutions whose two datasets one with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company are provided for this challenge. The objective is to look at relationships between demographics features, organize the population into clusters, and see how prevalent customers are in each of the segments obtained. Prior to applying the machine learning methods, we also require to assess and clean the data in order to convert the data into a usable form.
